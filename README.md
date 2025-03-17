@@ -40,18 +40,24 @@ Link to the digital version of the handout distributed in class: <a href="">Clic
 
 |Youtube Videos|
 |--------------|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|
+|<a href="https://youtu.be/UGvbALEszws?si=dZgOSJjpPH_GPSuC">How to get started with Graph ML? (Blog walkthrough)</a>|
+|<a href="https://youtu.be/GXhBEj1ZtE8?si=jT2si6uEwVKyaplM">Graph Neural Networks - a perspective from the ground up</a>|
+|<a href="https://youtu.be/eLcGehfjvgs?si=DcIoMLr7LhMBPtGf">Graph Convolutional Networks (GCN): From CNN point of view</a>|
+|<a href="https://youtu.be/zCEYiCxrL_0?si=NCwVPxwzXDgFjW44">An Introduction to Graph Neural Networks: Models and Applications</a>|
+|<a href="https://youtu.be/cka4Fa4TTI4?si=y7z7rhKH3JRIymg6">Introduction to graph neural networks (made easy!)</a>|
+|<a href="https://youtu.be/1SBhgQ5HMOw?si=m9V6E_nKBuSyG9Te">The spelled-out intro to Graph Convolutional Network (GCN)</a>|
+|<a href="https://youtu.be/2KRAOZIULzw?si=kkqVEiaizVmuP-jc">Graph Convolutional Networks (GCNs) made simple</a>|
+|<a href="https://youtu.be/VyIOfIglrUM?si=kVpSCMn9NgTTDLnm">Graph Convolutional Networks (GCN) | GNN Paper Explained</a>|
+|<a href="https://youtu.be/5SintlY9hbY?si=dL3R5A8VxEB5POjK">Graph Convolutional Network (GCN) Paper Explained</a>|
+|<a href="https://youtu.be/pH1Zz6c1Q7A?si=_TQzRzGJnnttTzie">Graph Convolutional Networks</a>|
+|<a href="https://youtu.be/8qTnNXdkF1Q?si=363J_fUhBJotwUxi">Graph Convolutional Networks using only NumPy</a>|
+|<a href="https://youtu.be/CwHNUX2GWvE?si=Y9_z4xsJ1KPEHdWN">Graph Convolutional Networks - Oxford Geometric Deep Learning</a>|
+|<a href="https://www.youtube.com/playlist?list=PLderfcX9H9Mo75imaw0NSUwR3hyIqfuXH">GCN Playlist</a>|
+|<a href="https://youtu.be/A-yKQamf2Fc?si=GoxmKssVyArRKe9z">Understanding Graph Attention Networks</a>|
+|<a href="https://youtu.be/uFLeKkXWq2c?si=FkdXaOSGaa0fe1Sq">Graph Attention Networks (GAT) | GNN Paper Explained</a>|
+|<a href="https://youtu.be/CwsPoa7z2c8?si=i3tjPVoZQwWv8L8y">Pytorch Geometric tutorial: Graph attention networks (GAT) implementation</a>|
+|<a href="https://youtu.be/v2P1yZhP8cs?si=4NLbKfiHPybCLk6f">GAT: Graph Attention Networks (Graph ML Research Paper Walkthrough)</a>|
+
+# Acknowledgements
+
+Special Thanks to Dr. Chaklam Silpasuwanchai for providing this opportunity to present these papers. I had a wonderful time learning something completely new compared to our usual CNNs and Transformers!
