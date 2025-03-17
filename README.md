@@ -30,15 +30,28 @@ Link to the digital version of the handout distributed in class: <a href="">Clic
 ## References
 |GNNs in General|GCNs|GATs|
 |---------------|----|----|
-|<a href="https://enccs.github.io/gnn-transformers/_downloads/caaa68c4683b66a395a78b6871b369e3/cs_graphs.pdf">Graph Cheatsheet</a>|<a href="https://distill.pub/2021/understanding-gnns/">Understanding Convolutions on Graphs</a>|<a href="">Link Here</a>|
-|<a href="https://enccs.github.io/gnn-transformers/_downloads/a3ac08b326fa81cefb9e3b1b04211bd7/cs_gnns.pdf">GNN Cheatsheet</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="https://enccs.github.io/gnn-transformers/quick-reference/">ENCCS Blog Page</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="https://distill.pub/2021/gnn-intro/">A Gentle Introduction to Graph Neural Networks</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
-|<a href="">Link Here</a>|<a href="">Link Here</a>|<a href="">Link Here</a>|
+|<a href="https://enccs.github.io/gnn-transformers/_downloads/caaa68c4683b66a395a78b6871b369e3/cs_graphs.pdf">Graph Cheatsheet</a>|<a href="https://distill.pub/2021/understanding-gnns/">Understanding Convolutions on Graphs</a>|<a href="https://paperswithcode.com/method/gat">Papers With Code - GAT</a>|
+|<a href="https://enccs.github.io/gnn-transformers/_downloads/a3ac08b326fa81cefb9e3b1b04211bd7/cs_gnns.pdf">GNN Cheatsheet</a>|<a href="https://github.com/nitinnilesh/Spelled-Out-Intro-to-Graph-Convolution-Networks">nitinnilesh/Spelled-Out-Intro-to-Graph-Convolution-Networks</a>|<a href="https://epichka.com/blog/2023/gat-paper-explained/">gat-paper-explained</a>|
+|<a href="https://enccs.github.io/gnn-transformers/quick-reference/">ENCCS Blog Page</a>|-|<a href="https://medium.com/@farzad.karami/understanding-graph-attention-networks-a-practical-exploration-cf033a8f3d9d">Understanding GAT</a>|
+|<a href="https://distill.pub/2021/gnn-intro/">A Gentle Introduction to Graph Neural Networks</a>|-|<a href="https://www.reddit.com/r/MachineLearning/comments/ptp490/graph_attention_networks_paper_summary_d/">GAT Summary</a>|
+|<a href="https://github.com/dsgiitr/graph_nets">dsgiitr/graph_nets</a>|-|-|
+|<a href="https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d">tutorial-on-graph-neural-networks-for-computer-vision-and-beyond</a>|-|-|
+|<a href="https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a">Aleksa's G.O.A.T Blog</a>|-|-|
+
+|Youtube Videos|
+|--------------|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
+|<a href="">Link Here</a>|
