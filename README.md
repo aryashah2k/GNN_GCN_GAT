@@ -4,6 +4,29 @@
 |------------------------------|
 |![spoderman](https://github.com/aryashah2k/GNN_GCN_GAT/blob/main/assets/graphman.jpg)|
 
+This repository holds the code-from-scratch implementations for the following three papers under the the domain of Graph Machine Learning:
+
+|Paper|Link|
+|-----|----|
+|Graph Neural Network(GNN)|<a href="https://ieeexplore.ieee.org/document/4700287">Read Paper</a>|
+|Graph Convolutional Neural(GCN) Network|<a href="https://arxiv.org/abs/1609.02907">Read Paper</a>|
+|Graph Attention Network(GAT)|<a href="https://arxiv.org/abs/1710.10903">Read Paper</a>|
+
+Here's a quick access to each notebook implementations:
+
+|GNN|GCN|GAT|
+|---|---|---|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+|<a href="">Name</a>|<a href="">Name</a>|<a href="">Name</a>|
+
+Link to the digital version of the handout distributed in class: <a href="">Click Here</a>
+
 ## References
 |GNNs in General|GCNs|GATs|
 |---------------|----|----|
